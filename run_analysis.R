@@ -1,7 +1,5 @@
 #Load the necessary packages for the assignment
-library(plyr)
-library(downloader)
-library(knitr)
+library(dplyr)
 
 #Start by unzipping the file if it is not in the directory and has not been downloaded or unzipped
 #Using a linux sandbox of R, so getting the file this way is easier 
